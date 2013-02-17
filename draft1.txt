@@ -1,0 +1,80 @@
+RoboCollab
+
+
+UserView - 
+
+*Home Page 	
+
+	The home page will be the first page where the user will land after 	successful login.	
+
+	-System Notifications
+		All the admin generated Notifications and errors/warnings 		from system
+	
+	-Recent Activities/Favorite project recent activities
+		Two tabs using which user can see the recent activities for 		all the projects or favorite projects
+	
+	-Tasks 
+		There will be a settings buttons using which user can select 		for how many days tasks will show here	
+	
+	-Projects Listing
+		The project listing will appear from right side when user 		press a button on right top corner	
+	
+
+*People Page
+	
+	The people area will be used by PM/PL/Mgmt for monitoring purpose. 	This will basically show what a particular programmer is doing.
+
+	-Reports
+		This will show some basic graph reports of how much time a 		particular guy is spending on what thing.
+	
+	--Projects
+		This will show what projects are assigned to that particular 		guy and when he is free and when busy with some basic reports 		on project tasks and deadlines.
+	
+	--Recent Activity
+		This will show recent activity of that particular guy, format 		will be same as on home page. (No timelog data here)
+	
+	--STARS
+		PM/PL can give stars to one. If he did something exceptional. 		PM/PL can give a star to that particular guy, this will boost 		the confidence in that guy and will also increase competition 		in the team. PM/PL can mark date time and detail for why that 		guy is awarded with a STAR.
+
+	--Time Log
+		This area will show recent time logs from that particular 		user.
+
+
+*Projects Page
+	
+	This page will open when the user select a project from right poping 	pane.	
+	
+	-Recent Activities
+		This area will show recent activities on this project
+	
+	-Project summary
+		This will show some summary for the project like category, 		progress in percentage, client, leader, budget and current 		state.
+
+	--Planing
+		(I'll put info later.. this section need more attention)
+
+	--Check List
+		With this section user can manage check list. This check list 		will help user in delivering complete project on time. We can 		put things like "get UDID from client", "Get server details", 		"Get third party api info"
+
+	--Discussions
+		This will be basically a forum where user (and team mates) 		can discuss things with client.
+	
+	--Files
+		Here client and user can share files using html 5's drag and 		drop feature.
+	
+	--Calendar
+		Here user can see the planing in a calendar format
+
+	--Pages
+		User can create and manage pages for projects here. He can 		create pages like - "how to get UDID", "how to install app on 		iDevice" etc
+
+	--Issues
+		(I'll put info later.. this section need more attention)
+
+
+	--Timelog
+		This area will show all the timelogs by all the team mates. 		This area can be used by PL to prepare bills for clients.
+
+	
+
+

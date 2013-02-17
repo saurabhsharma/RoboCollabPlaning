@@ -1,0 +1,8 @@
+**IDEAS**
+
+- Shoot an email to everyone and ask them to log time.. the format can be like this - "Hello Ashish!.. thanks for todays hard work.. tell us on what things you have worked on today… it will help us in".
+
+- The native client can also give prompt to user to log their time.
+
+- PM/PLs should get an email every morning with a list of programmers who are not logging their time.
+
